@@ -11,3 +11,13 @@ http://jmcauley.ucsd.edu/data/amazon/
 A large, dense movie rating dataset from Flixter.com. 
 
 http://socialcomputing.asu.edu/datasets/Flixster
+
+# knowledge graph
+
+## WordNet
+
+https://wordnet.princeton.edu/
+
+## FreeBase
+
+https://old.datahub.io/dataset/freebase
