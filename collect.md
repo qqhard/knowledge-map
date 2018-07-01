@@ -3,21 +3,27 @@
 
 https://github.com/debasishg/ml-readings
 
+## Deep Learning Papers Reading Roadmap
+
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+# Recommender System
+
 ## recSys summary and papers
 
 https://github.com/YuyangZhangFTD/awesome-RecSys-papers
 
-## Deep-Learning-for-Recommendation-Systems
+## Must-read papers on Recommender System
 
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/hongleizhang/RSPapers
 
 ## RecommenderSystem-Paper
 
 https://github.com/daicoolb/RecommenderSystem-Paper
 
-## Deep Learning Papers Reading Roadmap
+## Deep-Learning-for-Recommendation-Systems
 
-https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 
 # knowledge graph
 
