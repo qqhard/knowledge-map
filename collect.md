@@ -18,3 +18,11 @@ https://github.com/daicoolb/RecommenderSystem-Paper
 ## Deep Learning Papers Reading Roadmap
 
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+# knowledge graph
+
+## Must-read papers on KRL/KE.
+
+KRL: knowledge representation learning. KE: knowledge embedding.
+
+https://github.com/thunlp/KRLPapers
